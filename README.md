@@ -1,4 +1,4 @@
-🏏**IPL DATA ANALYSIS USING MYSQL (2008-2024)**🏏
+🏏**IPL DATA ANALYSIS USING MYSQL**(2008-2024)🏏
 
 🔎 **Problem statement -**
 Conduct an in-depth analysis of the IPL dataset by harnessing the information available in the 'Matches' and 'Deliveries' tables. The primary goal is to utilize advanced querying, data mining, and analytics techniques to uncover a wealth of insights. The analysis will encompass calculating batting statistics, deriving comprehensive bowling statistics, profiling top player performances, analysing team-wise performance, Identifying impactful partnerships and individual.
