@@ -11,3 +11,5 @@ Express questions generated from a data analysis perspective along with their co
 
 🔦Used Tools:
 MYSQL
+
+**NOTE: Check ppt for more visualize solution and output of query...**
